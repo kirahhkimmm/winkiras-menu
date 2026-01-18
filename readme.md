@@ -12,7 +12,7 @@
 ### 👨‍💻 Developed By
 **[winkira](https://github.com)** & **lefty.121**
 
-[View Project](https://github.com/winkiras-menu/) • [Report Bug](https://github.com) • [Request Feature](https://github.com)
+[View Project](https://github.com/kirahhkimmm/winkiras-menu/) • [Report Bug](https://github.com) • [Request Feature](https://github.com)
 
 </div>
 
