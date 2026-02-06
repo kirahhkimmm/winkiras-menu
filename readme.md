@@ -1,7 +1,7 @@
 <div align="center">
 
 # winkira's Menu
-**A premium utility project developed for performance and ease of use.**
+**A premium config of infinte yield**
 
 [![Stars](https://img.shields.io)](https://github.com)
 [![Forks](https://img.shields.io)](https://github.com)
