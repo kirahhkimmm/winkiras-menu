@@ -3,9 +3,9 @@
 # winkira's Menu
 **A premium config of infinte yield**
 
-[![Stars](https://img.shields.io)](https://github.com)
-[![Forks](https://img.shields.io)](https://github.com)
-[![Issues](https://img.shields.io)](https://github.com)
+[![Stars](https://img.shields.io)](https://github.com/kirahhkimmm/winkiras-menu/tree/main)
+[![Forks](https://img.shields.io)](https://github.com/kirahhkimmm/winkiras-menu/tree/main)
+[![Issues](https://img.shields.io)](https://github.com/kirahhkimmm/winkiras-menu/tree/main)
 
 ---
 
